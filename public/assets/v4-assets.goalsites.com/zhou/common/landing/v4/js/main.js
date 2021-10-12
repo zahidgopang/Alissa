@@ -1,0 +1,1 @@
+(function($){"use Strict";jQuery('.mobile-menu nav').meanmenu({meanScreenWidth:"991",});$('.categorie-title').on('click',function(){$('.vertical-menu-list').slideToggle();});$('.rx-parent').on('click',function(){$('.rx-child').slideToggle();$(this).toggleClass('rx-change');});})(jQuery);
