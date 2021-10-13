@@ -979,9 +979,13 @@
 																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/20")}}">BBQ Net</a></span></li>
                                                                                                                                                                 <li class="dg-item"><span><a href="{{URL("products/Subcategory/21")}}">BBQ Grill</a></span></li>
 																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/22")}}">BBQ BAMBOO STICK</a></span></li>
-																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/23")}}">Starter</a></span></li>
-																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/24")}}">Air Blower</a></span></li>
-																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/25")}}">BBQ Mesh</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/23")}}">BBQ BEACH</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/24")}}">BBQ BURSH</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/25")}}">BBQ NEW OVENr</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/26")}}">BBQ POT</a></span></li>
+                                                                                                                                                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/27")}}">Starter</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/28")}}">Air Blower</a></span></li>
+																																                                <li class="dg-item"><span><a href="{{URL("products/Subcategory/29")}}">BBQ Mesh</a></span></li>
 																																                                {{-- <li class="dg-item"><span><a href="{{URL("products/Subcategory/21")}}">Others</a></span></li> --}}
 																 
                             </ul>

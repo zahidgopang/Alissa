@@ -669,7 +669,7 @@
 					   </li>
 					  					  					  					  					  <li class="panel panel-default" id="thermometer-34">
 						<div class="panel-heading" role="tab">
-						  <a class="collapse-link" href="{{URL("products/Subcategory/18")}}">BBQ Charcoal Ovens</a>
+						  <a class="collapse-link" href="{{URL("products/Subcategory/18")}}">BBQ Oven</a>
 						</div>
 					  </li>
 					   </li>
@@ -694,21 +694,46 @@
 					<a class="collapse-link" href="{{URL("products/Subcategory/22")}}">BBQ BAMBOO STICK</a>
 					</div>
 					</li>
+					<li class="panel panel-default" id="bbq-mesh">
+						<div class="panel-heading" role="tab">
+						<a class="collapse-link" href="{{URL("products/Subcategory/23")}}">BBQ BEACH</a>
+						</div>
+						</li>
+						</li>
+						<li class="panel panel-default" id="bbq-mesh">
+						<div class="panel-heading" role="tab">
+						<a class="collapse-link" href="{{URL("products/Subcategory/24")}}">BBQ BURSH</a>
+						</div>
+						</li>
+						</li>
+						<li class="panel panel-default" id="bbq-mesh">
+						<div class="panel-heading" role="tab">
+						<a class="collapse-link" href="{{URL("products/Subcategory/25")}}">BBQ NEW OVEN</a>
+						</div>
+						</li>
+						</li>
+						<li class="panel panel-default" id="bbq-mesh">
+						<div class="panel-heading" role="tab">
+						<a class="collapse-link" href="{{URL("products/Subcategory/26")}}">BBQ POT</a>
+						</div>
+						</li>
 					  					  					  					  					  <li class="panel panel-default" id="bbq-starter">
 						<div class="panel-heading" role="tab">
-						  <a class="collapse-link" href="{{URL("products/Subcategory/23")}}">Starter</a>
+						  <a class="collapse-link" href="{{URL("products/Subcategory/27")}}">Starter</a>
 						</div>
 					  </li>
 					  					  					  					  					  <li class="panel panel-default" id="air-blower">
 						<div class="panel-heading" role="tab">
-						  <a class="collapse-link" href="{{URL("products/Subcategory/24")}}">Air Blower</a>
+						  <a class="collapse-link" href="{{URL("products/Subcategory/28")}}">Air Blower</a>
 						</div>
 					  </li>
 					  					  					  					  					  <li class="panel panel-default" id="bbq-mesh">
 						<div class="panel-heading" role="tab">
-						  <a class="collapse-link" href="{{URL("products/Subcategory/25")}}">BBQ Mesh</a>
+						  <a class="collapse-link" href="{{URL("products/Subcategory/29")}}">BBQ Mesh</a>
 						</div>
 					  </li>
+					</li>
+					
 					  					  					  					  					  {{-- <li class="panel panel-default" id="others-bbq-accessories">
 						<div class="panel-heading" role="tab">
 						  <a class="collapse-link" href="{{URL("products/Subcategory/21")}}">Others</a>

@@ -108,6 +108,10 @@
                                 </a>
                             </form>
                         </li> --}}
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST">
+                            @csrf
+                            <input type="submit" value="Logout">
+                        </form>
                     </ul>
                     <!-- ============================================================== -->
                     <!-- Right side toggle and nav items -->
@@ -253,6 +257,15 @@
                                                 <option value="15" class=" Allsub BBQ">BBQ GLOVE</option>
                                                 <option value="16" class=" Allsub BBQ">BBQ SKEWER</option>
                                                 <option value="17" class=" Allsub BBQ">THERMOMETER</option>
+                                                <option value="18" class=" Allsub BBQ">BBQ OVEN</option>
+                                                <option value="19" class=" Allsub BBQ">BBQ NEEDLE</option>
+                                                <option value="20" class=" Allsub BBQ">BBQ NET</option>
+                                                <option value="21" class=" Allsub BBQ">BBQ GRILL</option>
+                                                <option value="22" class=" Allsub BBQ">BBQ BAMBOO STICK</option>
+                                                <option value="23" class=" Allsub BBQ">BBQ BEACH</option>
+                                                <option value="24" class=" Allsub BBQ">BBQ BURSH</option>
+                                                <option value="25" class=" Allsub BBQ">BBQ NEW OVEN</option>
+                                                <option value="26" class=" Allsub BBQ">BBQ POT</option>
                                             </select>
                                         </div>
                                     </div>
@@ -331,6 +344,13 @@
                                         <div class="col-md-12">
                                             <input type="text" placeholder=""
                                                 class="form-control form-control-line" value="{{$products->material}}" name="material">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-12">PCS/CTN</label>
+                                        <div class="col-md-12">
+                                            <input type="text" placeholder=""
+                                                class="form-control form-control-line" value="{{$products->pcs}}" name="pcs">
                                         </div>
                                     </div>
                                     <div class="form-group">

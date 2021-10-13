@@ -61,6 +61,7 @@ class Products extends Controller
         $pro->pack_size = $request->packsize ;
         $pro->package = $request->package ;
         $pro->material = $request->material ;
+        $pro->pcs = $request->pcs ;
         $pro->video = $request->video ;
         $pro->save();
         if($files=$request->file('images')){
@@ -99,6 +100,7 @@ class Products extends Controller
         $pro->pack_size = $request->packsize ;
         $pro->package = $request->package ;
         $pro->material = $request->material ;
+        $pro->pcs = $request->pcs ;
         $pro->video = $request->video ;
         $pro->save();
 

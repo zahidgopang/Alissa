@@ -108,6 +108,10 @@
                                 </a>
                             </form>
                         </li> --}}
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST">
+                            @csrf
+                            <input type="submit" class="btn btn-danger" value="Logout">
+                        </form>
                     </ul>
                     <!-- ============================================================== -->
                     <!-- Right side toggle and nav items -->

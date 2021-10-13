@@ -1950,7 +1950,7 @@
                                             </li>
                                             <li >
                                                 <a class="pagess">
-                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/18")}}'"> BBQ Charcoal Oven</span></a>
+                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/18")}}'"> BBQ Oven</span></a>
                                             </li>
                                             <li >
                                                 <a class="pagess">
@@ -1967,6 +1967,22 @@
                                             <li >
                                                 <a class="pagess">
                                                     <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/22")}}'"> BBQ BAMBOO STICK</span></a>
+                                            </li>
+                                            <li >
+                                                <a class="pagess">
+                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/23")}}'"> BBQ BEACH</span></a>
+                                            </li>
+                                            <li >
+                                                <a class="pagess">
+                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/24")}}'">BBQ BURSH</span></a>
+                                            </li>
+                                            <li >
+                                                <a class="pagess">
+                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/25")}}'"> BBQ NEW OVEN</span></a>
+                                            </li>
+                                            <li >
+                                                <a class="pagess">
+                                                    <span style="cursor:pointer" onclick="window.location.href='{{URL("products/Subcategory/26")}}'"> BBQ POT</span></a>
                                             </li>
 
                                         </ul>

@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\GeneralController;
 use App\Http\Controllers\Products;
+use App\Http\Middleware\Authenticate;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,12 +16,27 @@ use App\Http\Controllers\Products;
 |
 */
 
+Route::middleware([Authenticate::class])->group(function(){
+
 Route::get('Admin/Add-Products', function () {
     return view('Admin/Add-Product');
 });
 
 Route::get('Admin/All-Products',  [Products::class, 'index']);
 Route::get('Admin/Messages',  [GeneralController::class, 'message']);
+Route::post('Productstore',  [Products::class, 'store']);
+
+Route::post('Productupdate',  [Products::class, 'update']);
+
+
+Route::get('Edit-Product/{id}',  [Products::class, 'Edit']);
+
+Route::get('Delete-Product/{id}',  [Products::class, 'Delete']);
+ 
+
+Route::get('DeleteImage/{id}',  [Products::class, 'DeleteImage']);
+
+});
 
 Route::get('/', [GeneralController::class, 'index']);
 
@@ -49,17 +65,7 @@ Route::get('news',  [GeneralController::class, 'news']);
 Route::get('post',  [GeneralController::class, 'post']);
 
 
-Route::post('Productstore',  [Products::class, 'store']);
 
-Route::post('Productupdate',  [Products::class, 'update']);
-
-
-Route::get('Edit-Product/{id}',  [Products::class, 'Edit']);
-
-Route::get('Delete-Product/{id}',  [Products::class, 'Delete']);
- 
-
-Route::get('DeleteImage/{id}',  [Products::class, 'DeleteImage']);
 
 
 Route::post('Message',  [GeneralController::class, 'storemessage']);
@@ -69,4 +75,7 @@ Route::post('Message',  [GeneralController::class, 'storemessage']);
 
 
 
+
+
+Auth::routes();
 

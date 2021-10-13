@@ -108,6 +108,10 @@
                                 </a>
                             </form>
                         </li> --}}
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST">
+                            @csrf
+                            <input type="submit" value="Logout">
+                        </form>
                     </ul>
                     <!-- ============================================================== -->
                     <!-- Right side toggle and nav items -->
@@ -239,6 +243,7 @@
                                             <th scope="col">Packing Size / Single PC</th>
                                             <th scope="col">Packaging Weight Of Single Pc</th>
                                             <th scope="col">Material</th>
+                                            <th scope="col">PCS/CTN</th>
                                             <th scope="col">Video</th>
                                             <th scope="col">Action</th>
                                         </tr>
@@ -262,6 +267,7 @@
                                             <td>{{$item->pack_size}}</td>
                                             <td>{{$item->package}}</td>
                                             <td>{{$item->material}}</td>
+                                            <td>{{$item->pcs}}</td>
                                             <td>{{$item->video}}</td>
                                             <td><a href="{{URL('Edit-Product').'/'.$item->id}}" class="btn warning">Edit</a><a href="{{URL('Delete-Product').'/'.$item->id}}" class="btn danger">Delete</a></td>
                                         </tr>
