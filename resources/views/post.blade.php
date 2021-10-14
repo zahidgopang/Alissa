@@ -168,9 +168,9 @@
                 <div class="comments-form border-box">
                 <h3 class="title-normal">Leave a comment</h3>
 
-        	    <form action="http://inquiry.digoodcms.com/api/keyobbq" method="post">
+        	    <form action="{{URL('Message')}}" method="post">
                     <div class="row">
-                        
+                        @csrf
                         <div class="col-md-6">
                             <div class="form-group">
                             <input class="form-control" name="name" id="name" placeholder="Full Name" type="text" required>
@@ -185,32 +185,17 @@
 
                         <div class="col-md-12">
                             <div class="form-group">
-                            <input class="form-control" placeholder="Website" type="text" required>
+                            <input class="form-control" placeholder="Subject" name="company" type="text" required>
                             </div>
                         </div>
 
                         <div class="col-md-12">
                             <div class="form-group">
-                            <textarea class="form-control required-field" id="message" placeholder="Comments" rows="6" required></textarea>
+                            <textarea class="form-control required-field" name="message" id="message" placeholder="Comments" rows="6" required></textarea>
                             </div>
                         </div><!-- Col 12 end -->
 
                     </div><!-- Form row end -->
-                    
-                    <input id="ipAddress" name="geoip[ipAddress]" type="hidden" value="">
-                    <input id="countryName" name="geoip[countryName]" type="hidden" value="">
-                    <input id="countryCode" name="geoip[countryCode]" type="hidden" value="">
-                    <input id="regionName" name="geoip[regionName]" type="hidden" value="">
-                    <input id="cityName" name="geoip[cityName]" type="hidden" value="">
-                    <input id="zipCode" name="geoip[zipCode]" type="hidden" value="">
-                    <input id="latitude" name="geoip[latitude]" type="hidden" value="">
-                    <input id="longitude" name="geoip[longitude]" type="hidden" value="">
-                    <input id="timeZone" name="geoip[timeZone]" type="hidden" value="">
-                    <input name="useragent[browser]" type="hidden" value="Chrome[84.0.4147.105]">
-                    <input name="userent[platform]" type="hidden" value="Windows 10">
-                    <input name="useragent[lang]" type="hidden" value="zh-CN,zh;q=0.9,es;q=0.8,en;q=0.7,ar;q=0.6,ja;q=0.5,lb;q=0.4">
-                    <input name="useragent[mobile]" type="hidden" value="No">
-                    <input name="useragent[agent_string]" type="hidden" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36">
                 
                     
                     <div class="clearfix text-right">
