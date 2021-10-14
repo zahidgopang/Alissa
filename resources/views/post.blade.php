@@ -11,7 +11,7 @@
 
 <style>
 .post-content.post-single .post-body .post-footer .post-tags a:hover{
-    background: #E70012 !important;
+    background: #87ceeb !important;
     color: white !important;
 }
   .breadcrumb li:not(:last-child),.ingle-page-title li{
@@ -21,7 +21,7 @@
       font-size: 16px !important;
   }
   .post-navigation div:hover a span i{
-      color: #E70012 !important;
+      color: #87ceeb !important;
   }
   
     .sidebar .widget .media .pull-left{
@@ -214,7 +214,7 @@
                 
                     
                     <div class="clearfix text-right">
-                        <button class="btn btn-primary" style="background:#E70012 !important;color:white;border-color:#E70012" type="submit">Send Massage</button> 
+                        <button class="btn btn-primary" style="background: #87ceeb !important;color:white;border-color: #87ceeb" type="submit">Send Massage</button> 
                     </div>
                 </form><!-- Form end -->
                 

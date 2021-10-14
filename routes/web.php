@@ -32,6 +32,7 @@ Route::post('Productupdate',  [Products::class, 'update']);
 Route::get('Edit-Product/{id}',  [Products::class, 'Edit']);
 
 Route::get('Delete-Product/{id}',  [Products::class, 'Delete']);
+Route::get('Delete-Message/{id}',  [GeneralController::class, 'DeleteMsg']);
  
 
 Route::get('DeleteImage/{id}',  [Products::class, 'DeleteImage']);

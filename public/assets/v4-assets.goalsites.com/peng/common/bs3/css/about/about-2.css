@@ -1,5 +1,5 @@
 [digood-id="main_about_box1_cp"] .page-content a {
-    color: #dc2a0b;
+    color:  #87ceeb !important;;
     text-decoration: none;
 }
 
@@ -145,7 +145,7 @@
     margin-right: 20px;
     width: 60px;
     height: 60px;
-    color: #dc2a0b;
+    color:  #87ceeb !important;;
     text-align: center;
     font-size: 42px;
     font-family: 'Oswald', sans-serif;
@@ -158,7 +158,7 @@
     height: 58px;
     border: 4px solid #ebebeb;
     border-radius: 50%;
-    background-color: #dc2a0b;
+    background-color:  #87ceeb !important;;
     color: #fff;
     font-size: 30px;
     line-height: 50px;

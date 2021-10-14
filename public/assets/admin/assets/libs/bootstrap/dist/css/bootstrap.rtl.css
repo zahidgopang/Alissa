@@ -2162,7 +2162,7 @@ progress {
   border-radius: 0.25rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-control {
     transition: none;
   }
@@ -2214,7 +2214,7 @@ progress {
   border-radius: 0;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-control::file-selector-button {
     transition: none;
   }
@@ -2238,7 +2238,7 @@ progress {
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-control::-webkit-file-upload-button {
     -webkit-transition: none;
     transition: none;
@@ -2409,7 +2409,7 @@ textarea.form-control-lg {
   color-adjust: exact;
   transition: background-color 0.15s ease-in-out, background-position 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-check-input {
     transition: none;
   }
@@ -2519,7 +2519,7 @@ textarea.form-control-lg {
   -webkit-appearance: none;
   appearance: none;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-range::-webkit-slider-thumb {
     -webkit-transition: none;
     transition: none;
@@ -2548,7 +2548,7 @@ textarea.form-control-lg {
   -moz-appearance: none;
   appearance: none;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-range::-moz-range-thumb {
     -moz-transition: none;
     transition: none;
@@ -2595,7 +2595,7 @@ textarea.form-control-lg {
   transform-origin: 100% 0;
   transition: opacity 0.1s ease-in-out, transform 0.1s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .form-floating > label {
     transition: none;
   }
@@ -2891,7 +2891,7 @@ textarea.form-control-lg {
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .btn {
     transition: none;
   }
@@ -3375,7 +3375,7 @@ textarea.form-control-lg {
 .fade {
   transition: opacity 0.15s linear;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .fade {
     transition: none;
   }
@@ -3393,7 +3393,7 @@ textarea.form-control-lg {
   overflow: hidden;
   transition: height 0.35s ease;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .collapsing {
     transition: none;
   }
@@ -3791,7 +3791,7 @@ textarea.form-control-lg {
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .nav-link {
     transition: none;
   }
@@ -3923,7 +3923,7 @@ textarea.form-control-lg {
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .navbar-toggler {
     transition: none;
   }
@@ -4322,7 +4322,7 @@ textarea.form-control-lg {
   overflow-anchor: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .accordion-button {
     transition: none;
   }
@@ -4349,7 +4349,7 @@ textarea.form-control-lg {
   background-size: 1.25rem;
   transition: transform 0.2s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .accordion-button::after {
     transition: none;
   }
@@ -4447,7 +4447,7 @@ textarea.form-control-lg {
   border: 1px solid #dee2e6;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .page-link {
     transition: none;
   }
@@ -4672,7 +4672,7 @@ textarea.form-control-lg {
   background-color: #0d6efd;
   transition: width 0.6s ease;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .progress-bar {
     transition: none;
   }
@@ -4687,7 +4687,7 @@ textarea.form-control-lg {
   -webkit-animation: 1s linear infinite progress-bar-stripes;
   animation: 1s linear infinite progress-bar-stripes;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .progress-bar-animated {
     -webkit-animation: none;
     animation: none;
@@ -5130,7 +5130,7 @@ textarea.form-control-lg {
   transition: transform 0.3s ease-out;
   transform: translate(0, -50px);
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .modal.fade .modal-dialog {
     transition: none;
   }
@@ -5671,7 +5671,7 @@ textarea.form-control-lg {
   backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .carousel-item {
     transition: none;
   }
@@ -5708,7 +5708,7 @@ textarea.form-control-lg {
   opacity: 0;
   transition: opacity 0s 0.6s;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .carousel-fade .active.carousel-item-start,
 .carousel-fade .active.carousel-item-end {
     transition: none;
@@ -5730,7 +5730,7 @@ textarea.form-control-lg {
   opacity: 0.5;
   transition: opacity 0.15s ease;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .carousel-control-prev,
 .carousel-control-next {
     transition: none;
@@ -5799,7 +5799,7 @@ textarea.form-control-lg {
   opacity: 0.5;
   transition: opacity 0.6s ease;
 }
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .carousel-indicators li {
     transition: none;
   }
@@ -5895,7 +5895,7 @@ textarea.form-control-lg {
   height: 1rem;
 }
 
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: #87ceebuce) {
   .spinner-border,
 .spinner-grow {
     -webkit-animation-duration: 1.5s;

@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     margin-right: 10px;
 }
 .navigation .sub-nav li a {
-    border-bottom: 1px solid #f00;
+    border-bottom: 1px solid #87ceeb !important;;
 }
   body .top-menu,ul.sub-nav li{
   	    background: #222 !important;
@@ -66,7 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	border-color:#222 !Important
   }
   ul.sub-nav li:hover>a{
-  	background:red !important
+  	background: #87ceeb!important
   }
   .single-page-title, .single-page-title-area .breadcrumb{
   	opacity:0 !important;
@@ -96,7 +96,7 @@ img{
   }
 
     .topcontrol {
-        background:red;
+        background: #87ceeb !important;
         color: #fff;
         font-size: 26px;
         cursor: pointer;
@@ -730,7 +730,7 @@ body .right-operate-panel span {
   	white-space:initial !Important
   }
   main .thumbnail .mate .fa{
-  	color:#E70012 !important
+  	color: #87ceeb !important
   }
   .navigation .sub-nav{
   border:none !Important;
@@ -771,26 +771,26 @@ body .right-operate-panel span {
   	color:white !Important
   }
   [digood-id="main_contact_box_cp"] .fp-form-3 .submit input{
-  	background:#E70012 !important;
+  	background: #87ceeb !important;
   }
   .page-item.active .page-link{
-  		background:#E70012 !important;
-	border-color:#E70012 !important;
+  		background: #87ceeb !important;
+	border-color: #87ceeb !important;
   }
   a.page-link{
-  	color:#E70012
+  	color: #87ceeb
   }
   a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i, .sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .btn-text:hover, .color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a, .single-sidebar-widget .special-links li a.active, .custom-check:before, .us .item span, .single-fact .icon-boxed, .single-fact span, .single-fact p, .star i, .time_table .icon_lf i, .blog .post-content a.blog_tital:hover, .blog .post-content a.read_more:hover, a:focus, a:hover, .flot_icon, .flot_right, .anchor_ser:hover .service_text p, .hover_box span, .top-ser-icon .icon-fl i, .abt-box__content-link-arrow, .abt-box_link-arrow, .abt-box__content-link:hover, .abt-box_link:hover, .abt-block_link-arrow, .abt-block_link:hover, .mv-block__vision_link-arrow, .mv-block__mission_link-arrow, .mv-block__vision_link:hover, .mv-block__mission_link:hover, .solution_box i.color_orenge, .single-fact.new_counter span.counter, .line-box i, .team-item-img .team-item-detail .team-item-detail-inner .social li a, .white_but, .white_but:hover, .white_but:focus, .widget-tag li a, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn, .team-item-img .team-item-detail .team-item-detail-inner .social li a:hover, .btn_style:hover, .form-field-wrapper i, .ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label, .top-info__block p, .top-info__block li i, h2 span, .services-block .inner-box .image .overlay-box .read-more:hover, .services-block .inner-box .lower-box a:hover, .inner-intro .page-breadcrumb span, .abt__link-arrow, .abt__link:hover, .pricing-2 .price, .pricing-2 .currency-symbol, .pricing-btn .get-start.white-btn, .white-btn, .title_bdr i, .process-icon .icon-number, .top-service .fr-text i, .more_btn__block{
-  	color:#E70012 !important;
+  	color: #87ceeb !important;
   }
   .footer .icons-hover-black i{
-  	background:#E70012 !important;
+  	background: #87ceeb !important;
   }
   .quote-sec a{
   background:#333 !important;
   }
   .dark-bg, .hover-bg:hover, .ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, .faq .collape-plus, .container-filter li a.active, .container-filter li a:hover, .container-filter li a, .link-zoom a, .link-zoom a.project_links, .project-info, #related-project .owl-prev:hover, #related-project .owl-next:hover, .sidebar-widget .widget-tag li a:hover, .content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next, .image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next, .fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next, .nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .blog-date, .pagination-nav ul li.active a, .pagination-nav ul li:hover a, .page-signin .body-inner:before, .b-line, .tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .us .item h6:after, .bg_prap, .position_none .btn_style, .content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next, .image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next, .fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next, .nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .newsletter .newsletter-btn, .hover_box:hover, .faq .collape-plus, .panel-title a i, .left_service:after, .left_service:before, .tab-title ul li a.active, .tab-title ul li a:hover, .abt-block__slider .owl-dots .owl-dot, .bullet_round:after, .second_righ:after, .bg_color, .bg-color, .prapl_btn:hover, .item-nav .item-prev .prev-btn:hover, .item-nav .item-next .next-btn:hover, .ui-input-group .input-bar:before, .ui-input-group .input-bar:after, .inner-header-wraper:hover i, .middel-part__block .logo, .middel-part__block::before, .middel-part__block .logo:after, .show-hov, .boda-cols span.icon_bg, .services-block .inner-box .image .icon-box, .footer .icons-hover-black i, .social-link__block a:after, .container-filter li a:before, .container-filter li a:after, .box-hover:hover .team-block, .btn.xplus-btn, a.btn.xplus-btn.pricing:hover, div .secondary_bg, .bg-color3, .skinonebg, a.btn.xplus-btn.pricing.active, .pricing-btn .get-start, a.btn.xplus-btn.pricing.active:hover, .btn-default, .bar, .tags li a, .icon-lf, .process-icon:hover, .services-block .inner-box .lower-box, .top-menu, .navigation .sub-nav, .top-service:hover, .top-service.active, .single_carousel > p, .new_top:before, .new_top:after, .sevice-box .service-text:before, .team_follow ul li a, .post_title h3:before, .post_date, #footer-widgets .widget .widget-title > span::after{
-  	background:#E70012 !important;
+  	background: #87ceeb !important;
   }
   *{
   	word-break:break-word;
@@ -1670,7 +1670,7 @@ body .right-operate-panel span {
         
     }
     .footer .icons-hover-black i{
-        background: #E70012 !important
+        background: #87ceeb !important
     }
   .search .bt-search{
   	top:1px !important;
@@ -2273,7 +2273,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   	color:white !important
   }
 	[digood-id="common_search_box_1_oyh"] button {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 		border: medium none;
 		color: #fff;
 		height: 100%;
@@ -2406,7 +2406,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	}
 
 	[digood-id="sidebar_related_item_1_oyh"] .dg-media-heading a:hover {
-		color: #e70012;
+		color: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] a {
@@ -2434,7 +2434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text:before {
-		background: #e70012;
+		background: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .image {
@@ -2472,7 +2472,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		padding: 25px 25px 30px 25px;
 		background: #f3f3f3;
 		text-align: center;
-		border-bottom: 2px solid #e70012;
+		border-bottom: 2px solid #87ceeb !important;;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text p {
@@ -2524,7 +2524,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		border: 2px solid;
 		padding: 0.5em 1em;
 		margin-top: 10px;
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 		color: #fff;
 	}
 
@@ -2603,9 +2603,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a,
 	[digood-id="list_pagination_1_oyh"] .pagination li > a:hover,
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a:hover {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 		color: #fff;
-		border: 1px solid #e70012;
+		border: 1px solid #87ceeb !important;;
 	}
 
 	@media (max-width: 768px) {
@@ -2616,26 +2616,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	/* /style list */
 
 	[digood-id="common_search_box_1_oyh"] button, [digood-id="list_product_item_3_oyh"] .dg-single-project .text:before {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 	}
 
 	[digood-id="sidebar_related_item_1_oyh"] .dg-media-heading a:hover {
-		color: #e70012;
+		color: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text {
-		border-bottom: 2px solid #e70012;
+		border-bottom: 2px solid #87ceeb !important;;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .link-button {
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 	}
 
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a,
 	[digood-id="list_pagination_1_oyh"] .pagination li > a:hover,
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a:hover {
-		background: #e70012 none repeat scroll 0 0;
-		border: 1px solid #e70012;
+		background: #87ceeb none repeat scroll 0 0;
+		border: 1px solid #87ceeb !important;;
 	}
 
 	[digood-id="page-products-seo-cp"] {
@@ -2656,7 +2656,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	[digood-id="page-products-seo-cp"] .title-text:before {
 		position: absolute;
 		content: '';
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 		height: 5px;
 		width: 50px;
 		border-radius: 5px;
@@ -3377,7 +3377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <input name="useragent[agent_string]" type="hidden" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36">
 			
 				<div class="col-md-2 col-lg-2 d-flex align-items-center">
-				  <input class="bnt btn-text sent-but mt-xs-30" style="color:white !important;border-color:#E70012 !important" type="submit" value="Send" />
+				  <input class="bnt btn-text sent-but mt-xs-30" style="color:white !important;border-color: #87ceeb !important" type="submit" value="Send" />
 				</div>
 			  </div>
            </form>
@@ -3621,7 +3621,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         style="z-index: 9999;padding:0;position:fixed;bottom:20%;right:0 !important;display:none">
         <h3 class="contact-title"
             style="padding: 8px 0 !important;text-align:left;
-                                                background:#E70012;font-size:20px;color:white;padding:10px 10px !important;margin-top:0 !important;margin-bottom:0 !important">
+                                                background: #87ceeb !important;font-size:20px;color:white;padding:10px 10px !important;margin-top:0 !important;margin-bottom:0 !important">
             Contact Us
             <a style="display:block;float:right;color:white !important;cursor:pointer" id="bx">X</a>
         </h3>
@@ -3694,7 +3694,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-            <span id="oll" style="background:red !important;position:static">
+            <span id="oll" style="background: #87ceeb!important;position:static">
 		  
         		<i class="fa fa-pencil-square-o"
                     style="color:white;position:static; margin-top: 8px;"></i>
@@ -3797,7 +3797,7 @@ $(function(){
 
 <!--
     <div style="position:fixed;top:45%;right:0;z-index:9998;    height: 50px;
-    background: red;">
+    background: #87ceeb !important;">
 
 
         <div class="right-operate-panel" style="position:static;">
@@ -3806,7 +3806,7 @@ $(function(){
 
 
 
-            <span id="ollb" style="background:red !important;position:static;width:50px"><i style="font-size:30px  ; position: relative;
+            <span id="ollb" style="background: #87ceeb!important;position:static;width:50px"><i style="font-size:30px  ; position: relative;
     left: 10px;" class="fa fa-pencil-square-o"
                     style="color:white;position:static"></i></span>
 

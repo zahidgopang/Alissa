@@ -55,7 +55,7 @@
   }
   .search-product div form button{
       border: none;
-      background-color: #e70012;
+      background-color: #87ceeb !important;
       color: #fff;
       padding: 10px;
       width: 18%;
@@ -86,14 +86,14 @@
   
   .dg-btn.dg-theme {
       color: #fff !important;
-      background-color: #e70012;
+      background-color: #87ceeb !important;
   }
   
   .dg-sider-title {
       font-size: 16px;
       font-weight: bold;
       text-transform: uppercase;
-      border-left: 5px solid #e70012;
+      border-left: 5px solid #87ceeb !important;;
       padding-left: .5em;
       padding-top: 10px;
       padding-bottom: 10px;
@@ -238,7 +238,7 @@
       margin-right: 10px;
       display: inline-block;
       width: 10px;
-      color: #e70012;
+      color: #87ceeb !important;
   }
   
   .dg-weight-category-menu .dg-list-items .dg-item > span > i {
@@ -261,7 +261,7 @@
       z-index: 9;
       cursor: pointer;
       color: inherit;
-      background-color: #e70012;
+      background-color: #87ceeb !important;
       color: #fff;
   }
   
@@ -433,7 +433,7 @@
   }
   
   .dg-product-images-slider .dg-image-list .dg-image.active {
-      border: 2px solid #e70012;
+      border: 2px solid #87ceeb !important;;
   }
   
   /** * 图片滑块 END **/
@@ -474,8 +474,8 @@
   .dg-tab .dg-tab-action.active {
       background-color: #fff;
       border-bottom-color: #fff;
-      border-top-color: #e70012;
-      color: #e70012;
+      border-top-color: #87ceeb !important;
+      color: #87ceeb !important;
   }
   
   .dg-tab .dg-tab-panel {

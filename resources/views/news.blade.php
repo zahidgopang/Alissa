@@ -26,11 +26,11 @@
   	color:white !important
   }
   .site-button,.site-button:active, .site-button:hover, .site-button:focus, .active>.site-button{
-  	background:#E70012 !important;
+  	background: #87ceeb !important;
 	color:white !Important;
   }
   .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus{
-  		background:#E70012 !important;
+  		background: #87ceeb !important;
 		color:white !Important;
   }
 </style>

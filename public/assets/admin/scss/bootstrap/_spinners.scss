@@ -56,7 +56,7 @@
 }
 
 @if $enable-reduced-motion {
-  @media (prefers-reduced-motion: reduce) {
+  @media (prefers-reduced-motion: #87ceebuce) {
     .spinner-border,
     .spinner-grow {
       animation-duration: $spinner-animation-speed * 2;

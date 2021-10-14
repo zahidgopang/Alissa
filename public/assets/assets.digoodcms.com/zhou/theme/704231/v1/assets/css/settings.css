@@ -1035,7 +1035,7 @@ img.tp-slider-alternative-image	{
 	width: 40px;
 	height: 40px;
 	margin-top:-20px;margin-left:-20px;
-	background-color: #ff0000;
+	background-color: #87ceeb !important;
 	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
 	-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
 	border-radius: 100%;
@@ -1213,7 +1213,7 @@ img.tp-slider-alternative-image	{
   padding: 5px 10px;
   z-index: 2000;
   white-space: normal;}
-.hginfo 					   { 	position:absolute;top:-2px;left:-2px;color:#e74c3c;font-size:12px;font-weight:600; background:#000;padding:2px 5px;}
+.hginfo 					   { 	position:absolute;top:-2px;left:-2px;color: #87ceeb !important;;font-size:12px;font-weight:600; background:#000;padding:2px 5px;}
 .indebugmode .tp-caption:hover { 	border:1px dashed #c0392b !important;}
 .helpgrid 					   { 	border:2px dashed #c0392b;position:absolute;top:0px;peft:0px;z-index:0 }
 

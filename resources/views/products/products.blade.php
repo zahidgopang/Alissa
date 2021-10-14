@@ -26,7 +26,7 @@
   	color:white !important
   }
 	[digood-id="common_search_box_1_oyh"] button {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 		border: medium none;
 		color: #fff;
 		height: 100%;
@@ -159,7 +159,7 @@
 	}
 
 	[digood-id="sidebar_related_item_1_oyh"] .dg-media-heading a:hover {
-		color: #e70012;
+		color: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] a {
@@ -187,7 +187,7 @@
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text:before {
-		background: #e70012;
+		background: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .image {
@@ -225,7 +225,7 @@
 		padding: 25px 25px 30px 25px;
 		background: #f3f3f3;
 		text-align: center;
-		border-bottom: 2px solid #e70012;
+		border-bottom: 2px solid #87ceeb !important;;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text p {
@@ -277,7 +277,7 @@
 		border: 2px solid;
 		padding: 0.5em 1em;
 		margin-top: 10px;
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 		color: #fff;
 	}
 
@@ -356,9 +356,9 @@
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a,
 	[digood-id="list_pagination_1_oyh"] .pagination li > a:hover,
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a:hover {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 		color: #fff;
-		border: 1px solid #e70012;
+		border: 1px solid #87ceeb !important;;
 	}
 
 	@media (max-width: 768px) {
@@ -369,26 +369,26 @@
 	/* /style list */
 
 	[digood-id="common_search_box_1_oyh"] button, [digood-id="list_product_item_3_oyh"] .dg-single-project .text:before {
-		background: #e70012 none repeat scroll 0 0;
+		background: #87ceeb none repeat scroll 0 0;
 	}
 
 	[digood-id="sidebar_related_item_1_oyh"] .dg-media-heading a:hover {
-		color: #e70012;
+		color: #87ceeb !important;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .text {
-		border-bottom: 2px solid #e70012;
+		border-bottom: 2px solid #87ceeb !important;;
 	}
 
 	[digood-id="list_product_item_3_oyh"] .dg-single-project .link-button {
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 	}
 
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a,
 	[digood-id="list_pagination_1_oyh"] .pagination li > a:hover,
 	[digood-id="list_pagination_1_oyh"] .pagination li.active a:hover {
-		background: #e70012 none repeat scroll 0 0;
-		border: 1px solid #e70012;
+		background: #87ceeb none repeat scroll 0 0;
+		border: 1px solid #87ceeb !important;;
 	}
 
 	[digood-id="page-products-seo-cp"] {
@@ -409,7 +409,7 @@
 	[digood-id="page-products-seo-cp"] .title-text:before {
 		position: absolute;
 		content: '';
-		background-color: #e70012;
+		background-color: #87ceeb !important;
 		height: 5px;
 		width: 50px;
 		border-radius: 5px;
@@ -498,7 +498,7 @@
 		  <div class="col-md-3 col-sm-12">
 						<div class="digood-sidebar-search-box">
 			  <div digood-id="common_search_box_1_oyh">
-				<form action="https://www.alissbabbq.com/search/products" method="GET">
+				<form action="#" method="GET">
 				  <input type="search" placeholder="Search..." name="keyword">
 				  <button type="submit">
 					<i class="fa fa-search"></i>
