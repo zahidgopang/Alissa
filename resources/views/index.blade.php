@@ -1011,8 +1011,8 @@ Ash catcher Compact design</span></span>                            </p>
                 <div class=" col-md-12 col-lg-12">
 
                     <!-- Contact FORM -->
-                    <form class="quote-form" id="contact" action="http://inquiry.digoodcms.com/api/keyobbq"
-                          method="post">
+                    <form class="quote-form" id="contact" action="{{URL('Message')}}" method="post"
+           >            @csrf
                         <!-- IF MAIL SENT SUCCESSFULLY -->
                         <div id="success">
                             <div role="alert" class="alert alert-success">
@@ -1023,48 +1023,31 @@ Ash catcher Compact design</span></span>                            </p>
                         <div class="row">
                             <div class="col-md-4 col-lg-4">
                                 <div class="form-field">
-                                    <input class="input-sm form-full" id="contact[name]" type="text" name="form-name"
+                                    <input class="input-sm form-full" id="name" type="text" name="name"
                                            placeholder="Your Name">
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-lg-4">
                                 <div class="form-field">
-                                    <input class="input-sm form-full" id="email" type="text" name="form-email"
+                                    <input class="input-sm form-full" id=email type="text" name="email"
                                            placeholder="Email">
                                 </div>
                             </div>
 
                             <div class="col-md-4 col-lg-4">
                                 <div class="form-field">
-                                    <input class="input-sm form-full" id="contact[sub]" type="text" name="form-subject"
+                                    <input class="input-sm form-full" id="company" type="text" name="company"
                                            placeholder="Subject">
                                 </div>
                             </div>
 
                             <div class="col-md-10 col-lg-10">
                                 <div class="form-field">
-                                <textarea class="form-full" id="message" rows="7" name="form-message"
+                                <textarea class="form-full" id="message" rows="7" name="message"
                                           placeholder="Your Message"></textarea>
                                 </div>
                             </div>
-
-                            <input name="page" type="hidden">
-                            <input id="ipAddress" name="geoip[ipAddress]" type="hidden" value="">
-                            <input id="countryName" name="geoip[countryName]" type="hidden" value="">
-                            <input id="countryCode" name="geoip[countryCode]" type="hidden" value="">
-                            <input id="regionName" name="geoip[regionName]" type="hidden" value="">
-                            <input id="cityName" name="geoip[cityName]" type="hidden" value="">
-                            <input id="zipCode" name="geoip[zipCode]" type="hidden" value="">
-                            <input id="latitude" name="geoip[latitude]" type="hidden" value="">
-                            <input id="longitude" name="geoip[longitude]" type="hidden" value="">
-                            <input id="timeZone" name="geoip[timeZone]" type="hidden" value="">
-                            <input name="useragent[browser]" type="hidden" value="Chrome[64.0.3282.167]">
-                            <input name="useragent[platform]" type="hidden" value="Windows 10">
-                            <input name="useragent[lang]" type="hidden" value="zh-CN,zh;q=0.9,en;q=0.8">
-                            <input name="useragent[mobile]" type="hidden" value="No">
-                            <input name="useragent[agent_string]" type="hidden"
-                                   value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36">
 
                             <div class="col-md-2 col-lg-2 d-flex align-items-center">
                                 <input class="bnt btn-text sent-but mt-xs-30"
