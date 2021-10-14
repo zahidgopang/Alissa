@@ -135,4 +135,5 @@ class Products extends Controller
         $pro->delete();
         return redirect()->back();
     }
+    
 }

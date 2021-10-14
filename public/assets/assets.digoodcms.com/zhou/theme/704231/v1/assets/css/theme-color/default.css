@@ -31,7 +31,7 @@ a.btn.xplus-btn.pricing.active:hover, .btn-default, .bar, .tags li a, .icon-lf, 
 }
 
 .quote-sec a {
-  background: #F25C21;
+  background: #87ceeb !important;
 }
 
 .bullet_round:before, .second_righ:before {
@@ -102,7 +102,7 @@ a.btn.xplus-btn.pricing.active:hover, .process-icon:hover, .item-box, .sevice-bo
 }
 
 .navigation .sub-nav li {
-  border-color: #F25C21;
+  border-color: #87ceeb !important;
 }
 
 .ui-input-group > input:focus, .sec-title h2:after, .services-block .inner-box .lower-box, .rightGrip:before, .leftGrip:before {

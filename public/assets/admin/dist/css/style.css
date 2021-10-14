@@ -1346,7 +1346,7 @@ pre {
   border: 1px solid #e9ecef;
   border-radius: 2px;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .form-control {
       transition: none; } }
   .form-control::-ms-expand {
@@ -1717,7 +1717,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   line-height: 1.5;
   border-radius: 2px;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .btn {
       transition: none; } }
   .btn:hover, .btn:focus {
@@ -2284,7 +2284,7 @@ input[type="button"].btn-block {
 
 .fade {
   transition: opacity 0.15s linear; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .fade {
       transition: none; } }
   .fade:not(.show) {
@@ -2298,7 +2298,7 @@ input[type="button"].btn-block {
   height: 0;
   overflow: hidden;
   transition: height 0.35s ease; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .collapsing {
       transition: none; } }
 
@@ -2878,7 +2878,7 @@ input[type="button"].btn-block {
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     appearance: none; }
-    @media screen and (prefers-reduced-motion: reduce) {
+    @media screen and (prefers-reduced-motion: #87ceebuce) {
       .custom-range::-webkit-slider-thumb {
         transition: none; } }
     .custom-range::-webkit-slider-thumb:focus {
@@ -2902,7 +2902,7 @@ input[type="button"].btn-block {
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     appearance: none; }
-    @media screen and (prefers-reduced-motion: reduce) {
+    @media screen and (prefers-reduced-motion: #87ceebuce) {
       .custom-range::-moz-range-thumb {
         transition: none; } }
     .custom-range::-moz-range-thumb:focus {
@@ -2926,7 +2926,7 @@ input[type="button"].btn-block {
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     appearance: none; }
-    @media screen and (prefers-reduced-motion: reduce) {
+    @media screen and (prefers-reduced-motion: #87ceebuce) {
       .custom-range::-ms-thumb {
         transition: none; } }
     .custom-range::-ms-thumb:focus {
@@ -2954,7 +2954,7 @@ input[type="button"].btn-block {
 .custom-file-label,
 .custom-select {
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .custom-control-label::before,
     .custom-file-label,
     .custom-select {
@@ -3838,7 +3838,7 @@ input[type="button"].btn-block {
   white-space: nowrap;
   background-color: #7460ee;
   transition: width 0.6s ease; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .progress-bar {
       transition: none; } }
 
@@ -4078,7 +4078,7 @@ button.close {
   .modal.fade .modal-dialog {
     transition: transform 0.3s ease-out;
     transform: translate(0, -25%); }
-    @media screen and (prefers-reduced-motion: reduce) {
+    @media screen and (prefers-reduced-motion: #87ceebuce) {
       .modal.fade .modal-dialog {
         transition: none; } }
   .modal.show .modal-dialog {
@@ -4409,7 +4409,7 @@ button.close {
 .carousel-item-prev {
   display: block;
   transition: transform 0.6s ease; }
-  @media screen and (prefers-reduced-motion: reduce) {
+  @media screen and (prefers-reduced-motion: #87ceebuce) {
     .carousel-item.active,
     .carousel-item-next,
     .carousel-item-prev {

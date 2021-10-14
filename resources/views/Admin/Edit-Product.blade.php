@@ -368,9 +368,9 @@
                                         </div>
                                     </div>
                                     @foreach ($products->productimages as $item)
-                                        <div>
+                                        <div class="col-md-4">
                                             <a href="{{URL('DeleteImage')}}/{{$item->id}}"class="dlt">Delete</a>
-                                            <img src="{{asset('productimages')}}/{{$item->image}}" alt="">
+                                            <img style="width:100%"src="{{asset('productimages')}}/{{$item->image}}" alt="">
                                             <input type="hidden" name="img2[]" value="{{$item->image}}">
                                         </div>
                                     @endforeach

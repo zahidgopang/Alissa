@@ -234,6 +234,9 @@
                                             <th scope="col">Email</th>
                                             <th scope="col">Company</th>
                                             <th scope="col">Message</th>
+                                            <th scope="col">Qoutes</th>
+                                            <th scope="col">Comments</th>
+                                            <th scope="col">Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -246,6 +249,10 @@
                                             <td>{{$item->email}}</td>
                                             <td>{{$item->company}}</td>
                                             <td>{{$item->message}}</td>
+                                            <td>{{$item->Qoutes}}</td>
+                                            <td>{{$item->Comments}}</td>
+                                            <td><a href="{{URL('Delete-Message').'/'.$item->id}}" class="btn danger">Delete</a></td>
+
                                             
                                         </tr>
                                         @endforeach

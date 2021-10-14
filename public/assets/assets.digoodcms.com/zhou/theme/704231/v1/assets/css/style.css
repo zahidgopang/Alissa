@@ -1586,7 +1586,7 @@ form label.error {
 	border: 1px solid #f1f1f1;
 }
 .sidebar-widget .red-box {
-	background: #FF0000;
+	background: #87ceeb !important;
 }
 .sidebar-widget .yellow-box {
 	background: #FFD700;
@@ -7341,7 +7341,7 @@ div .secondary_bg {
 }
 .we-do .icon .fa {
 	font-size: 50px;
-	color: #f00;
+	color: #87ceeb !important;;
 }
 
 .we-do .icon p {
@@ -7764,7 +7764,7 @@ div .secondary_bg {
 	position: relative;
 }
 .actual-price:before {
-	background: #ff0000;
+	background: #87ceeb !important;
 	content: "";
 	display: block;
 	height: 1px;
@@ -7915,12 +7915,12 @@ div .secondary_bg {
 	right: 0;
 }
 .ribbon.red {
-	background-color: #ff0000;
+	background-color: #87ceeb !important;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#ff0000), to(#bf0c0c));
-	background-image: -webkit-linear-gradient(top, #ff0000, #bf0c0c);
-	background-image: -moz-linear-gradient(top, #ff0000, #bf0c0c);
-	background-image: -ms-linear-gradient(top, #ff0000, #bf0c0c);
-	background-image: -o-linear-gradient(top, #ff0000, #bf0c0c);
+	background-image: -webkit-linear-gradient(top, #87ceeb !important;, #bf0c0c);
+	background-image: -moz-linear-gradient(top, #87ceeb !important;, #bf0c0c);
+	background-image: -ms-linear-gradient(top, #87ceeb !important;, #bf0c0c);
+	background-image: -o-linear-gradient(top, #87ceeb !important;, #bf0c0c);
 }
 .ribbon.blue {
 	background-color: #03b6f7;

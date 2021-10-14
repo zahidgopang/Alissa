@@ -18,7 +18,7 @@
     }
 
     @if $enable-reduced-motion and nth($transition, 1) != null and nth($transition, 1) != none {
-      @media (prefers-reduced-motion: reduce) {
+      @media (prefers-reduced-motion: #87ceebuce) {
         transition: none;
       }
     }

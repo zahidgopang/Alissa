@@ -113,15 +113,15 @@ Welcome to visit our factory!</span><iframe frameborder="0" height="500px" src="
                         <h3><span style="font-size:28px;">Our&nbsp;Culture</span></h3>
                     </div>
 				  
-				                      <span class="dropcap dropcap__rounded">1</span>
+				                      <span class="dropcap dropcap__rounded" style="color: white!important">1</span>
                     <h6>Enterprise Spirit</h6>
                     <p>Unity and enterprising, expand innovation. To keep pace with the times, looking for the best!</p>
                     <div class="spacer-sm"></div>
-				                      <span class="dropcap dropcap__rounded">2</span>
+				                      <span class="dropcap dropcap__rounded" style="color: white!important">2</span>
                     <h6>Management Style</h6>
                     <p>Serious and pragmatic, work hard and be honest!</p>
                     <div class="spacer-sm"></div>
-				                      <span class="dropcap dropcap__rounded">3</span>
+				                      <span class="dropcap dropcap__rounded" style="color: white!important">3</span>
                     <h6>company value</h6>
                     <p>To become an excellent team better tha a hero person</p>
                     <div class="spacer-sm"></div>

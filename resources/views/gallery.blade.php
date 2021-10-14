@@ -72,16 +72,16 @@ input[type="text"], input[type="email"], input[type="tel"], input[type="number"]
         </section> -->
         <style>
         main .btn-primary {
-    background-color: #ff0000;
-    border-color: #ff0000;
+    background-color: #87ceeb !important;
+    border-color: #87ceeb !important;
 }
 main .btn-primary:hover {
     color: #fff;
-    background-color: #ff0000;
-    border-color: #ff0000;
+    background-color: #87ceeb !important;
+    border-color: #87ceeb !important;
 }
 main .product-list .thumbnail h3 {
-    border-left: 3px solid #ff0000;
+    border-left: 3px solid #87ceeb !important;;
 }
         </style>
 

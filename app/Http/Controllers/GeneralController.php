@@ -77,4 +77,11 @@ class GeneralController extends Controller
         $contact = Contact::all();
         return view('Admin/Messages' , compact('contact'));
     }
+    public function DeleteMsg($id)
+    {
+
+        $msg = Contact::find($id); 
+        $msg->delete();
+        return redirect()->back();
+    }
 }

@@ -4,7 +4,7 @@
 
 	<style>
 .faq-block .card-block{
-    border-color: #e70012 !important;
+    border-color: #87ceeb !important;
 }
 img{max-width:100%;height:auto;}
 a{outline:0!important;}
@@ -48,11 +48,11 @@ h3,h5,p,a,span{word-wrap:break-word;}
 }
 
 .faq-block .card-header h5 a::before, .faq-block .card-header h5 a:hover::before, .faq-block .card-header h5 a.collapsed:hover::before {
-    background-color: #e70012;
+    background-color: #87ceeb !important;
 }
 
 .faq-block .card-header h5 a span {
-    background-color: #e70012;
+    background-color: #87ceeb !important;
 }
 
 a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i, .sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .btn-text:hover, .color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a, .single-sidebar-widget .special-links li a.active, .custom-check:before, .us .item span, .single-fact .icon-boxed, .single-fact span, .single-fact p, .star i, .time_table .icon_lf i, .blog .post-content a.blog_tital:hover, .blog .post-content a.read_more:hover, a:focus, a:hover, .flot_icon, .flot_right, .anchor_ser:hover .service_text p, .hover_box span, .top-ser-icon .icon-fl i, .abt-box__content-link-arrow, .abt-box_link-arrow, .abt-box__content-link:hover, .abt-box_link:hover, .abt-block_link-arrow, .abt-block_link:hover, .mv-block__vision_link-arrow, .mv-block__mission_link-arrow, .mv-block__vision_link:hover, .mv-block__mission_link:hover, .solution_box i.color_orenge, .single-fact.new_counter span.counter, .line-box i, .team-item-img .team-item-detail .team-item-detail-inner .social li a, .white_but, .white_but:hover, .white_but:focus, .widget-tag li a, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn, .team-item-img .team-item-detail .team-item-detail-inner .social li a:hover, .btn_style:hover, .form-field-wrapper i, .ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label, .top-info__block p, .top-info__block li i, h2 span, .services-block .inner-box .image .overlay-box .read-more:hover, .services-block .inner-box .lower-box a:hover, .inner-intro .page-breadcrumb span, .abt__link-arrow, .abt__link:hover, .pricing-2 .price, .pricing-2 .currency-symbol, .pricing-btn .get-start.white-btn, .white-btn, .title_bdr i, .process-icon .icon-number, .top-service .fr-text i, .more_btn__block {

@@ -6,7 +6,7 @@
     <section class="main-slider hidden-xs">
         <style>
             .main-slider .slider-btn-center {
-                background:#e70012;
+                background: #87ceeb !important;
                 padding:10px 20px;
                 color:white !important;
                 top:150px;
@@ -32,7 +32,7 @@
 
             .main-slider .owl-prev:hover,
             .main-slider .owl-next:hover {
-                background: #E70012 !important;
+                background: #87ceeb !important;
                 color: white
             }
 
@@ -398,7 +398,7 @@
 
         .read-more-link {
             font-size: 15px;
-            color: red !important;
+            color: #87ceeb!important;
             font-weight: 700;
             text-decoration: none;
             display: inline-block;
@@ -430,7 +430,7 @@
         }
 
         .service-column:hover {
-            background: red !important;
+            background: #87ceeb!important;
             transition: all .3s ease-in;
             color: white !Important
         }
@@ -486,7 +486,7 @@
                         <h2>Yongkang Mengda Industry&Trading Co.,Ltd</h2>
                     </div>
                     <p>
-                        Yongkang Mengda Industry&Trading Co.,Ltd,was established on 2003.Is located in the hardware capital of CHINA-YONGKANG.And is a professional manufacturer of stainless steel tools and chrome series, including bbq grill,bbq  oven and bbq needles.Our high quality production are all appreciated by vast number of new and old clients. Is mainly exported to Europe,America,The middle East,South America,Southeast Asia and supermarkets in abroad.Due to the combination of high quality standards,fashionable and practicality,our products are approved and satisfied within overseas customers.                    <button style="display:block;margin-top:20px;background:red !important;float:right"
+                        Yongkang Mengda Industry&Trading Co.,Ltd,was established on 2003.Is located in the hardware capital of CHINA-YONGKANG.And is a professional manufacturer of stainless steel tools and chrome series, including bbq grill,bbq  oven and bbq needles.Our high quality production are all appreciated by vast number of new and old clients. Is mainly exported to Europe,America,The middle East,South America,Southeast Asia and supermarkets in abroad.Due to the combination of high quality standards,fashionable and practicality,our products are approved and satisfied within overseas customers.                    <button style="display:block;margin-top:20px;background: #87ceeb!important;float:right"
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    onclick="window.location.href='about-us.html'" class="btn"><a href="about-us.html"
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  style="color:white">Read More >></a></button>
                     </p>
@@ -520,7 +520,7 @@
         <div class="container">
             <div><div class="row clearfix">
                     <div class="col-md-12 column">
-                        <p style="text-align: center;"><span style="font-size:30px;display:block"><span style="color:#e74c3c;">Our</span> <span style="color:#000000;"><strong>advantage</strong></span></span><span class="title_bdr"><i class="ion-more"> </i></span></p>
+                        <p style="text-align: center;"><span style="font-size:30px;display:block"><span style="color: #87ceeb !important;;">Our</span> <span style="color:#000000;"><strong>advantage</strong></span></span><span class="title_bdr"><i class="ion-more"> </i></span></p>
                     </div>
                 </div>
 
@@ -530,7 +530,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898341_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898341_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">With over <span style="color:#ff0000;">3,000</span> models and <span style="color:#ff0000;">1,500</span> square meter big showroom.</span></span></span></p>
+                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">With over <span style="color: #87ceeb !important;">3,000</span> models and <span style="color: #87ceeb !important;">1,500</span> square meter big showroom.</span></span></span></p>
                             </div>
                         </div>
 
@@ -544,7 +544,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">Strong <span style="color:#ff0000;">R&D</span> ability with over <span style="color:#ff0000;">30</span> engineers.</span></span></span></p>
+                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">Strong <span style="color: #87ceeb !important;">R&D</span> ability with over <span style="color: #87ceeb !important;">30</span> engineers.</span></span></span></p>
                             </div>
                         </div>
 
@@ -558,7 +558,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Complete supporting advanced manipulator <span style="color:#ff0000;">automatic</span> production line.</span></span></span></p>
+                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Complete supporting advanced manipulator <span style="color: #87ceeb !important;">automatic</span> production line.</span></span></span></p>
                             </div>
                         </div>
 
@@ -574,7 +574,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri=""><span style="color:#ff0000;">15</span>&nbsp;professional <span style="color:#ff0000;">QC</span> with more than <span style="color:#ff0000;">15</span> years <span style="color:#ff0000;">AQL&nbsp;Lv.2</span> experience.</span></span></span></p>
+                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri=""><span style="color: #87ceeb !important;">15</span>&nbsp;professional <span style="color: #87ceeb !important;">QC</span> with more than <span style="color: #87ceeb !important;">15</span> years <span style="color: #87ceeb !important;">AQL&nbsp;Lv.2</span> experience.</span></span></span></p>
                             </div>
                         </div>
 
@@ -588,7 +588,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">High <span style="color:#ff0000;">cost-effective</span> based on strict quality control, management and crafts.</span></span></span></p>
+                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">High <span style="color: #87ceeb !important;">cost-effective</span> based on strict quality control, management and crafts.</span></span></span></p>
                             </div>
                         </div>
 
@@ -602,7 +602,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Over <span style="color:#ff0000;">$50,000,000</span> annual output valve, and <span style="color:#ff0000;">$30,000,000</span> annual sales value.</span></span></span></p>
+                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Over <span style="color: #87ceeb !important;">$50,000,000</span> annual output valve, and <span style="color: #87ceeb !important;">$30,000,000</span> annual sales value.</span></span></span></p>
                             </div>
                         </div>
 
@@ -618,7 +618,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">Over <span style="color:#ff0000;">99%</span> on time delivery rate.</span></span></span></p>
+                                <p><span style="font-size:16px;"><span lang="EN-US"><span calibri="">Over <span style="color: #87ceeb !important;">99%</span> on time delivery rate.</span></span></span></p>
                             </div>
                         </div>
 
@@ -632,7 +632,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Well-known third party <span style="color:#ff0000;">BSCI</span>, <span style="color:#ff0000;">SEDEX</span>, <span style="color:#ff0000;">ISO</span>, <span style="color:#ff0000;">GS</span>, etc qualified factory.</span></span></span></p>
+                                <p><span style="font-size:14px;"><span lang="EN-US"><span calibri="">Well-known third party <span style="color: #87ceeb !important;">BSCI</span>, <span style="color: #87ceeb !important;">SEDEX</span>, <span style="color: #87ceeb !important;">ISO</span>, <span style="color: #87ceeb !important;">GS</span>, etc qualified factory.</span></span></span></p>
                             </div>
                         </div>
 
@@ -644,7 +644,7 @@
                             <div class="col-md-3 column"><img alt="140x140" src="{{ asset('/assets/v4-upload.goalsites.com/377/1576898409_test%20keyong.jpg_%3b%20filename_%3dutf-8%27%271576898409_test%2520keyong.jpg') }}" /></div>
 
                             <div class="col-md-9 column">
-                                <p><span style="font-size:16px;">Products comply with <span style="color:#ff0000;">GS/EN1860/ FSC/LFGB/DGCCRF</span>&nbsp;standard.</span></p>
+                                <p><span style="font-size:16px;">Products comply with <span style="color: #87ceeb !important;">GS/EN1860/ FSC/LFGB/DGCCRF</span>&nbsp;standard.</span></p>
                             </div>
                         </div>
 
@@ -657,13 +657,6 @@
         </div>
     </section>
 
-    <section style="padding:40px">
-        <div class="container">
-            <iframe class="xx2" frameborder="0" height="500px"
-                    src="https://zao.taobao.com/vrimage/preview?userId=3071451764&amp;bizId=25707516&amp;type=cgs"
-                    width="100%"></iframe>
-        </div>
-    </section>
 
 
     <style>
@@ -1075,7 +1068,7 @@ Ash catcher Compact design</span></span>                            </p>
 
                             <div class="col-md-2 col-lg-2 d-flex align-items-center">
                                 <input class="bnt btn-text sent-but mt-xs-30"
-                                       style="color:white !important;border-color:#E70012 !important" type="submit"
+                                       style="color:white !important;border-color: #87ceeb !important" type="submit"
                                        value="Send" />
                             </div>
                         </div>

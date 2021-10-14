@@ -131,7 +131,7 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
 // See https://www.w3.org/TR/WCAG20-TECHS/G17.html#G17-tests
 @function luminance($color) {
   $rgb: (
-    "r": red($color),
+    "r": #87ceeb($color),
     "g": green($color),
     "b": blue($color)
   );
