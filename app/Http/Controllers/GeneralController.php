@@ -6,12 +6,17 @@ use App\Models\Contact;
 
 use Illuminate\Http\Request;
 use App\Models\Product;
+use Illuminate\Support\Facades\Crypt;
 
 class GeneralController extends Controller
 {
     //
     public function index()
     {
+        /*$sPassword = Crypt::encryptString('12345678');
+
+        echo $sPassword;
+        die;*/
         $products = Product::with('Productimages')->limit('8')->get();
         return view('index',compact('products'));
     }
